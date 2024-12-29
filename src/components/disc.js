@@ -44,6 +44,15 @@ export const disc=[
         name:'Food Scarcity',
         img:'https://foodbunker.co.uk/cdn/shop/articles/food_and_starvation_1024x1024.png?v=1677762738',
         desc:'Food scarcity, also known as food insecurity, is the lack of access and availability of food with a certain group of individuals',
+    },{
+        name:'Stuned',
+        img:'https://cdn.langeek.co/photo/20195/original/amazed?type=jpeg',
+        desc:'so shocked that one is temporarily unable to react; astonished'
+    },
+    {
+        name:'Terrifying',
+        img:'http://www.photo-dictionary.com/photofiles/list/9733/13212terrified.jpg',
+        desc:'causing extreme fear'
     }
 
     ];
