@@ -51,7 +51,7 @@ export const disc=[
     },
     {
         name:'Terrifying',
-        img:'http://www.photo-dictionary.com/photofiles/list/9733/13212terrified.jpg',
+        img:'https://1387905758.rsc.cdn77.org/data/resource_icons/38/38597.jpg?1694044548',
         desc:'causing extreme fear'
     }
 
